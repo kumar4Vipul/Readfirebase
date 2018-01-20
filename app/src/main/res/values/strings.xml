@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Readfirebase</string>
+    <string name="Email">email</string>
+    <string name="action_sign_in_short">signIn</string>
+</resources>
